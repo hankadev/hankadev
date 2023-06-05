@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, Remix, Go**
 
-- 📝 I write articles on [https://hanka-dev.com/](https://hanka-dev.com/)
+- 📝 I write articles on [https://hankadev.com/](https://hankadev.com/)
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
