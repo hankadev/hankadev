@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Hanka 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-I'm Hanka, a dedicated **self-taught developer**. When I'm not wrangling lines of code, you can find me diving into the worlds of **JavaScript, TypeScript, React, NextJS, and Remix**. Yes, I do create digital magic, but no, I can't pull a rabbit out of a server... yet.
+I'm a **self-taught developer**. When I'm not wrangling lines of code, you can find me diving into the worlds of **JavaScript, TypeScript, React, NextJS, and Remix**. Yes, I do create digital magic, but no, I can't pull a rabbit out of a server... yet.
 
-🌟 Fun fact #1: I have a Baby Yoda tattoo. That's right, I'm not just about the code; I'm a certified Star Wars fanatic. My quest? To craft software as legendary as the tales from galaxies far, far away.
+🌟 **Fun fact #1**: I have a Baby Yoda tattoo. That's right, I'm not just about the code; I'm a huge Star Wars fan. My quest? To craft software as legendary as the stories from galaxies far, far away.
 
-🏃‍♀️ Fun fact #2: I'm not just running tests, I'm a real-life half marathon conqueror! I've raced through the streets more times than the Millennium Falcon has done the Kessel Run. So whether it's debugging code, sprinting, or running a half marathon, I know how to keep the pace.
+🏃‍♀️ **Fun fact #2**: I'm not just running tests, I'm a real-life half marathon conqueror! I've raced through the streets more times than the Millennium Falcon has done the Kessel Run. So whether it's debugging code, sprinting, or running a half marathon, I know how to keep the pace.
 
 💻 Bugs, consider yourself warned! Just like a certain Mandalorian with shiny beskar armor, I'm geared up to take on unwanted features and squash glitches. With every push, every merge, I edge closer to coding excellence and a universe free of bugs.
 
