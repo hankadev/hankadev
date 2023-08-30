@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Hanka 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
+I'm Hanka, a dedicated **self-taught developer**. When I'm not wrangling lines of code, you can find me diving into the worlds of **JavaScript, TypeScript, React, NextJS, and Remix**. Yes, I do create digital magic, but no, I can't pull a rabbit out of a server... yet.
+
+🌟 Fun fact #1: I have a Baby Yoda tattoo. That's right, I'm not just about the code; I'm a certified Star Wars fanatic. My quest? To craft software as legendary as the tales from galaxies far, far away.
+
+🏃‍♀️ Fun fact #2: I'm not just running tests, I'm a real-life half marathon conqueror! I've raced through the streets more times than the Millennium Falcon has done the Kessel Run. So whether it's debugging code, sprinting, or running a half marathon, I know how to keep the pace.
+
+💻 Bugs, consider yourself warned! Just like a certain Mandalorian with shiny beskar armor, I'm geared up to take on unwanted features and squash glitches. With every push, every merge, I edge closer to coding excellence and a universe free of bugs.
+
 📝 I write articles on [https://hankadev.com/](https://hankadev.com/)
 
-🌱 I’m currently learning **Go, Docker, GitHub Actions**
+🎓 I’m currently learning **Go, Docker, GitHub Actions**
 
-🔭 I’m looking to collaborate on **any interesting open source project**
-
-💬 Ask me about **JavaScript, TypeScript, React**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Where to find me in the galaxy</h3>
 
 <a href="https://linkedin.com/in/hana-klingova" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -21,7 +25,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Beskar Arsenal</h3>
 <div display:"flex">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
