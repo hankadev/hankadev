@@ -21,8 +21,8 @@ I'm a **self-taught developer**. When I'm not wrangling lines of code, you can f
 <a href="https://twitter.com/hankadev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
-<a href="https://instagram.com/hankadev" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://instagram.com/hankadev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
 <h3 align="left">My Beskar Arsenal</h3>
