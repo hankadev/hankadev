@@ -7,8 +7,6 @@ I'm a **self-taught developer**. When I'm not wrangling lines of code, you can f
 
 🏃‍♀️ **Fun fact #2**: I'm not just running tests, I'm a real-life half marathon conqueror! I've raced through the streets more times than the Millennium Falcon has done the Kessel Run. So whether it's debugging code, sprinting, or running a half marathon, I know how to keep the pace.
 
-💻 Bugs, consider yourself warned! Just like a certain Mandalorian with shiny beskar armor, I'm geared up to take on unwanted features and squash glitches. With every push, every merge, I edge closer to coding excellence and a universe free of bugs.
-
 📝 I write articles on [https://hankadev.com/](https://hankadev.com/)
 
 🎓 I’m currently learning **Go, Docker, GitHub Actions**
