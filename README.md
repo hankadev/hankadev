@@ -41,6 +41,7 @@ I'm a **self-taught developer**. When I'm not wrangling lines of code, you can f
 
 <h3 align="left">My Galactic Speaker's Saga</h3>
 
+<a href="https://www.youtube.com/watch?v=fA-hmlC40Uk" target="_blank"><img src="https://img.youtube.com/vi/fA-hmlC40Uk/0.jpg" width="33%" alt="Tech demo - Qwik: built by performance nerds for nerds"></a>
 <a href="https://www.youtube.com/live/TzUpKuNN8to" target="_blank"><img src="https://img.youtube.com/vi/TzUpKuNN8to/0.jpg" width="33%" alt="A Guide to Writing a Terrible API"></a>
 <a href="https://youtu.be/1fifcUz5nHk" target="_blank"><img src="https://img.youtube.com/vi/1fifcUz5nHk/0.jpg" width="33%" alt="Why you should give Copilot a try"></a>
 <a href="https://youtu.be/YHIMfshpY-U" target="_blank"><img src="https://img.youtube.com/vi/YHIMfshpY-U/0.jpg" width="33%" alt="Copilot: Weapon for Laid Back Developers"></a>
